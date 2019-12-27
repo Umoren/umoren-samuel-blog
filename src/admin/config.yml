@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: your_name/repo_name
+  repo: Umoren/umoren-samuel-blog
 
-media_folder: "static/uploads"
+media_folder: "/static"
 public_folder: "/uploads"
 
 collections:
